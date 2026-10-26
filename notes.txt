@@ -1,0 +1,3 @@
+uv init  -> to initalize the project
+uv venv  -> to create the virtual env
+uv add -> To install a liberary
