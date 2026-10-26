@@ -1,3 +1,5 @@
 uv init  -> to initalize the project
 uv venv  -> to create the virtual env
 uv add -> To install a liberary
+git switch -c development 
+git checkout main -> to move to main
